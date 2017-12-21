@@ -1,0 +1,121 @@
+New York, New York
+Los Angeles, California
+Richmond, California
+Berkeley, California
+Hayward, California
+Salt Lake, City Utah
+Sunnyvale, California
+Boulder, Colorado
+Chicago, Illinois
+Houston, Texas
+Waco, Texas
+Philadelphia, Pennsylvania
+Phoenix, Arizona
+San Antonio, Texas
+San Diego, California
+Dallas, Texas
+San Jose, California
+Austin, Texas
+Jacksonville, Florida
+Indianapolis, Indiana
+San Francisco, California
+Columbus, Ohio
+Fort Worth, Texas
+Charlotte, North Carolina
+Detroit, Michigan
+El Paso, Texas
+Memphis, Tennessee
+Boston, Massachusetts
+Seattle, Washington
+Spokane, Washington
+Kent, Washington
+Tacoma, Washington
+Denver, Colorado
+Washington, DC
+Nashville, Tennessee
+Baltimore, Maryland
+Louisville, Kentucky
+Portland, Oregon
+Astoria, Oregon
+Oklahoma, City Oklahoma
+Milwaukee, Wisconsin
+Las Vegas, Nevada
+Albuquerque, New Mexico
+Tucson, Arizona
+Fresno, California
+Sacramento, California
+Long Beach, California
+Kansas City, Missouri
+Mesa, Arizona
+Virginia Beach, Virginia
+Atlanta, Georgia
+Colorado Springs, Colorado
+Raleigh, North Carolina
+Omaha, Nebraska
+Miami, Florida
+Oakland, California
+Tulsa, Oklahoma
+Minneapolis, Minnesota
+Columbia, South Carolina
+Cleveland, Ohio
+Wichita, Kansas
+Arlington, Texas
+New Orleans, Louisiana
+Knoxville, Tennessee
+Bakersfield, California
+Tampa, Florida
+Honolulu, Hawaii
+Anaheim, California
+Aurora, Colorado
+Lynchburg, Virginia
+Santa Ana, California
+Saint Louis, Missouri
+Riverside, California
+Corpus Christi, Texas
+Pittsburgh, Pennsylvania
+Harrisburg, Pennsylvania
+Lexington, Kentucky
+Louisville, Kentucky
+Stockton, California
+Cincinnati, Ohio
+Saint Paul, Minnesota
+Grand Rapids, Michigan
+Toledo, Ohio
+Newark, New Jersey
+Hartford, Connecticut
+Greensboro, North Carolina
+Plano, Texas
+Providence, Rhode Island
+Des Moines, Iowa
+Henderson, Nevada
+Lincoln, Nebraska
+Buffalo, New York
+Rochester, New York
+Fort Wayne, Indiana
+Jersey City, New Jersey
+Chula Vista, California
+Orlando, Florida
+Saint Petersburg, Florida
+Norfolk, Virginia
+Chandler, Arizona
+Laredo, Texas
+Madison, Wisconsin
+Durham, North Carolina
+Lubbock, Texas
+Raliegh, North Carolina
+Garland, Texas
+Glendale, Arizona
+Hialeah, Florida
+Reno, Nevada
+Baton Rouge, Louisiana
+Irvine, California
+Chesapeake, Virginia
+Irving, Texas
+Scottsdale, Arizona
+Las Vegas, Nevada
+Fremont, California
+Tucson, Arizona
+San Bernardino, California
+Hollywood, California
+Boise, Idaho
+Birmingham, Alabama

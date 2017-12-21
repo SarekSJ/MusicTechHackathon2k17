@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vibez</title>
+    <link rel="stylesheet" href="/static/third_party/css/semantic.css">
+</head>
+<body>
+    {% include 'navbar.html' %}
+    <div class="ui grid">
+        <div class="four wide column"></div>
+        <div class="eight wide column" style="border: solid">
+            {% include 'input_area.html' %}
+        </div>
+        <div class="four wide column"></div>
+
+    </div>
+
+    {#  Third-party scripts  #}
+    <script src="/static/third_party/js/jquery-3.2.1.js"></script>
+    <script src="/static/third_party/js/semantic.js"></script>
+    {# Custom scripts #}
+    <script src="/static/js/main_page.js"></script>
+</body>
+</html>
